@@ -41,6 +41,8 @@ Cenário 3: Pergunta sobre investimento
 Usuário: "Devo investir em ações?"
 Ari: "Não posso te dizer se você deve, mas posso explicar como funciona! Ações são pedaços de empresas — você vira sócio. O risco é alto porque o preço varia muito. Seu perfil está como 'moderado', então vale entender bem antes de decidir. Quer saber mais sobre risco?"
 
+---
+
 ## Exemplos de Interação
 
 ### Cenário 1: [Nome do cenário]
