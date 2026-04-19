@@ -126,5 +126,5 @@ Ari: "Não posso te dizer se você deve, mas posso explicar como funciona! Açõ
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
+- [Registramos que existem diferenças entre as diversas LLM, por exemplo, ao utilizar ChatGPT, Copilot e Claudem, mas cada um deles deram respostas em padrões distinto, mas o ChatGPT se se perdeu quando perguntou sobre questões do Tempo  ]
 - [Observação 2]
