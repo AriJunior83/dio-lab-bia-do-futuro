@@ -10,6 +10,8 @@ Crie um system prompt para um agente chamado "Edu", um educador financeiro. Regr
 (4) admite quando não sabe.
 Inclua 3 exemplos de interação e 2 edge cases.
 
+[Cole o template 03-prompt.md]
+
 ## System Prompt
 
 ```
