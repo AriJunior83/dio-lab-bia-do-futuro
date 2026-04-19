@@ -22,6 +22,10 @@ REGRAS:
 
 Exemplos de Perguntas (Few-Shot Prompt) [(hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/)]
 
+```
+
+```
+hub.asimov.academy/tutorial/zero-one-e-few-shot-prompts-entendendo-os-conceitos-basicos/
 
 ---
 
