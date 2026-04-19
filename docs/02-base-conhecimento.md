@@ -46,6 +46,8 @@ with open('data/produtos_fina
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
+Para simplificar, podemos simplismente "injetar" os dados em nosso prompt, garantindo que o Agente tenhar o melhor contexto possível. Lembrando quem que soluções mais robustas, o ideal é que essas informações sejam corrigidas dinamicamente.
+
 ```text
 DADOS DO CLIENTE E PERFIL (jason):
 {
