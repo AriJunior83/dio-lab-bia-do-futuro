@@ -17,6 +17,7 @@ REGRAS:
 5. Sempre pergunte se o cliente entendeu
 ...
 ```
+[Contexto: uso da base de conhecimento]
 
 ---
 
